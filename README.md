@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Twitch Channel Points Miner - v2](https://raw.githubusercontent.com/rdavydov/Twitch-Channel-Points-Miner-v2/master/assets/banner.png)
 <p align="center">
 <a href="https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2/releases"><img alt="Latest Version" src="https://img.shields.io/github/v/release/rdavydov/Twitch-Channel-Points-Miner-v2?style=flat&color=white&logo=github&logoColor=white"></a>
@@ -761,3 +762,6 @@ If you can't install `cryptography`, please try:
 
 ## Disclaimer
 This project comes with no guarantee or warranty. You are responsible for whatever happens from using this project. It is possible to get soft or hard banned by using this project if you are not careful. This is a personal project and is in no way affiliated with Twitch.
+=======
+# twitch-miner
+>>>>>>> ae798258282bcd95db08043ac75be7d3499541a8
